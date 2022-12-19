@@ -1,6 +1,6 @@
 # .github
 
-An about repo for [@RedHat-Israel](https://github.com/RedHat-Israel) repositories.
+Default configuration for @RedHat-Israel [@RedHat-Israel](https://github.com/RedHat-Israel) repositories
 
 ## Introduction
 
