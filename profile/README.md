@@ -1,11 +1,11 @@
 <p align="center">
-<a href= "https://github.com/RedHat-Israel" alt="Top Banner">
+<a href="https://github.com/RedHat-Israel" alt="Top Banner">
   <img src="https://raw.githubusercontent.com/RedHat-Israel/RedHat-Israel.github.io/main/assets/img/confetti.jpg" target="blank" />
 </a>
 </p>
 <br>
 <p align="center">
-<a href= "https://github.com/RedHat-Israel" alt="Total Stars">
+<a href="https://github.com/RedHat-Israel" alt="Total Stars">
   <img src="https://img.shields.io/github/stars/RedHat-Israel?style=social" target="blank" />
 </a>
 </p>
