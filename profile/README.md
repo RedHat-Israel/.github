@@ -13,6 +13,9 @@
 <br>
 
 We are a group of Red Hatters from the Red Hat Israeli site.
+
 We are an open-source community - anyone can contribute.
+
 We check each other's work, communicate and collaborate to solve problems.
+
 We strive to be welcoming, respectful, yet make sure that our code follows the latest programming guidelines.
