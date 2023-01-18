@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/RedHat-Israel" alt="Top Banner">
-  <img src="https://raw.githubusercontent.com/RedHat-Israel/RedHat-Israel.github.io/main/assets/img/confetti.jpg" target="blank" />
+  <img src="https://raw.githubusercontent.com/RedHat-Israel/RedHat-Israel.github.io/main/assets/img/ocp_commons2022.jpg" target="blank" />
 </a>
 </p>
 <br>
